@@ -35,7 +35,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) model** that al
 ## ⚙️ Installation
 1. Clone the repository
     ```bash
-    git clone https://github.com/namansanghavi/QAWithPDF.git
+    git clone https://github.com/namansanghavi/qa-with-pdf
     cd QAWithPDF
     ```
 2. Create a virtual environment & activate
